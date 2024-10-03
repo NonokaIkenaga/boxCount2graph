@@ -4,3 +4,5 @@
     - `c1_data_row_min_list`,`c1_data_row_max_list`
     - `c2_data_row_min_list`,`c2_data_row_max_list`
     - `ser`の追加(`Chart1`オプション設定,`Chart2`オプション設定)
+- excelファイル保存/画像保存の自動化は`path_list2`,`path_list6`のみ対応
+  - 増やしたい場合,ディレクトリ指定を増やすこと
